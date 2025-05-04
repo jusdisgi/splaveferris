@@ -3,7 +3,9 @@ Ergonomic split keyboard running ZMK on a Seeed XIAO BLE controller. It has 34 k
 
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/c75b4add-ea47-46eb-b4f4-95c860c0fa42" />
 
-My goals are to make the keyboard as small and thin as possibe while remaining comfortable, efficient, and relatively durable. That is the main rationale for not using hotswap switches; in addition to adding a bit of height, it makes the keys much less secure if you aren't using a case of some kind. I intend to plastidip the bottom and otherwise leave it raw.
+My goals are to make the keyboard as small and thin as possibe while remaining comfortable, efficient, and relatively durable. That is the main rationale for not using hotswap switches; in addition to adding a bit of height, it makes the keys much less secure if you aren't using a case of some kind. I spray plastidip on the bottom but otherwise leave it raw.
+
+![image](https://github.com/user-attachments/assets/06e29c12-97c8-4d2d-8020-6c3b89b0eeaf)
 
 The board is designed to be primarily assembled with SMD methods. I use solder paste and a hotplate to surface mount the controller, button, switch, and all the diodes, leaving only the battery connector and keyswitches to manually solder.
 
