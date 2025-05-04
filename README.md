@@ -1,6 +1,8 @@
 # SplaveFerris
 Ergonomic split keyboard running ZMK on a Seeed XIAO BLE controller. It has 34 keys and is similar in layout to the Ferris Sweep except with a bit of finger splay.
 
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/c75b4add-ea47-46eb-b4f4-95c860c0fa42" />
+
 My goals are to make the keyboard as small and thin as possibe while remaining comfortable, efficient, and relatively durable. That is the main rationale for not using hotswap switches; in addition to adding a bit of height, it makes the keys much less secure if you aren't using a case of some kind. I intend to plastidip the bottom and otherwise leave it raw.
 
 The board is designed to be primarily assembled with SMD methods. I use solder paste and a hotplate to surface mount the controller, button, switch, and all the diodes, leaving only the battery connector and keyswitches to manually solder.
